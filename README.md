@@ -1,7 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
 <div align="center">
   <img src="/images/github-header-image.png"  />
 </div>
