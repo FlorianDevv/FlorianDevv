@@ -25,4 +25,4 @@
 
 <h2 align="left">My skills:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nest,vue,java,tailwindcss,php,flutter,docker,python,symfony,laravel,postgres,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nest,vue,cs,java,tailwindcss,php,flutter,docker,python,symfony,laravel,postgres,)](https://skillicons.dev)
