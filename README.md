@@ -27,3 +27,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nest,vue,cs,dotnet,java,tailwindcss,php,flutter,docker,python,symfony,laravel,postgres)](https://skillicons.dev)
 
+###
+
+<h2 align="left">My Leetcode Stats:</h2>
+(I'm new to leetcode)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/FlorianDevv?ext=heatmap)
