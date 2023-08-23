@@ -21,6 +21,8 @@
   </a>
 </div>
 
+![Views](https://komarev.com/ghpvc/?username=FlorianDevv&color=blueviolet)
+
 ###
 
 <h2 align="left">My skills:</h2>
