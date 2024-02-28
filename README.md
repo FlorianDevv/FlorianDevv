@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ I'm a computer enthusiast who like to code. 💻<br>👍 Check out my GitHub profile to see my projects and contributions. 🤓</p>
+<p align="left">✨ I'm a computer enthusiast who like to code. 💻<br>👍 Check out my GitHub profile to see my projects.</p>
 
 ###
 
@@ -20,7 +20,10 @@
 
 ###
 
+<h2 align="left">Favorite tech :</h2>
+
+[![My Favorite Technologies](https://skillicons.dev/icons?i=react,next,swift,typescript,nest,tailwind,shad)](https://skillicons.dev)
+
 <h2 align="left">My skills:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nest,vue,cs,dotnet,java,tailwindcss,php,flutter,docker,python,symfony,laravel,postgres)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nest,vue,cs,dotnet,java,tailwindcss,php,docker,python,symfony,laravel,postgres,swift,kotlin,flutter)](https://skillicons.dev)
