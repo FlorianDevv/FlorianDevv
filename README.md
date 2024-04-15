@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="/images/github-header-image.png"  />
-</div>
-
 ###
 
 <h2 align="left">About me</h2>
