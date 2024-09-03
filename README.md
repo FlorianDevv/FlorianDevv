@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 - <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Drapeau de la France" width="12" height="10"> Full-stack developer from France
-- 🎓 Currently seeking an apprenticeship position.
+- 🎓 Currently at MyDigitalSchool.
 - 💻 Computer enthusiast who loves to code
 - 🚀 Passionate about building full-stack applications
 
