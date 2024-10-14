@@ -11,6 +11,8 @@
 
 [![MangaRead](https://img.shields.io/static/v1?message=MangaRead&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FlorianDevv/MangaRead)
 
+(Big update coming soon, no commits until I'm satisfied)
+
 ## 🛠 Favorite Technologies
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
